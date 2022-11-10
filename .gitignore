@@ -1,5 +1,9 @@
 *
 !.gitignore
 !ex*/
-!ex*/*
+!ex*/**
 *.docx
+*.workspace
+**/.vscode/**
+**/Project Backups/**
+**/platformIO/**
